@@ -1,5 +1,5 @@
-### This repository contains all the Machine learning projects I have done.
-# **Contents**
+# This repository contains all the Machine learning projects I have done.
+## **Contents**
 - Kirana shops classification 
 - Jigsaw toxic comments classification
 - NLP with disaster tweets
