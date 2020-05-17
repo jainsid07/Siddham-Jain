@@ -1,7 +1,9 @@
-### This repository contains all the self-projects I have done.
-## **Contents**
-- [Kirana shops classification using CNN](code.py)
-- [Time series prediction of Apple stocks using RNN]
+### This repository contains all the Machine learning projects I have done.
+# **Contents**
+##- Kirana shops classification 
+- Jigsaw toxic comments classification
+- NLP with disaster tweets
+- 
 
 
 
