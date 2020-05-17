@@ -7,7 +7,7 @@
 - Credit card clustering
 
 ## **Kirana shops classification**
-#### The project's task is to classify *kirana* shops images in 5 different business categories i.e. - 
+####The project's task is to classify *kirana* shops images in 5 different business categories i.e. - 
 1. Apparels
 2. Pharmaceuticals
 3. Electronics
