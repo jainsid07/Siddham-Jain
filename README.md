@@ -6,5 +6,8 @@
 - Bitcoin time series prediction
 - Credit card clustering
 
+## **Kirana shops classification**
+
+
 
 
