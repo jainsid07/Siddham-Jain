@@ -1,2 +1,2 @@
 # Siddham-Jain
-ML for everyone
+This repository cantains all the self-projects I have done.
