@@ -14,8 +14,8 @@ The project's task is to classify *kirana* shops images in 5 different business 
 4. Grocery
 5. Food items
 
-For classifying images, I implemented Convolutional Neural Network(CNN) model built on Keras and Tensorflow, [Transfer Learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/) method was used on [Places365](http://places2.csail.mit.edu/) dataset. 
-I used [VGG-16](https://towardsdatascience.com/step-by-step-vgg16-implementation-in-keras-for-beginners-a833c686ae6c) arctitecture which was trained on Places365 dataset and fine-tuned it on ~8000 *kirana* shop images. The best model had the accuracy of ~80%.
+For classifying images, Convolutional Neural Network(CNN) model built on Keras and Tensorflow was implemented. I used the method of [Transfer Learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/) on [Places365](http://places2.csail.mit.edu/) dataset which has images very similar to the shop images. 
+I used pre-trained [VGG-16](https://towardsdatascience.com/step-by-step-vgg16-implementation-in-keras-for-beginners-a833c686ae6c) arctitecture and fine-tuned it on ~8000 *kirana* shop images. The best model had the accuracy of ~80%.
 
 
 
