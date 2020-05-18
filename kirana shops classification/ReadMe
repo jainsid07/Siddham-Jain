@@ -1,2 +1,6 @@
-This folder contains -
+Run the files in a sequence - 
+1. VGG_16_pre-trained.py
+2. preparing training data.py
+3. Fine tuning the model.py
+4. Selecting the best model.py
 
