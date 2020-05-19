@@ -6,7 +6,7 @@
 - Bitcoin time series prediction
 - Credit card clustering
 
-## **Kirana shops classification**
+## [**Kirana shops classification**](https://github.com/jainsid07/Siddham-Jain/tree/master/kirana%20shops%20classification)
 The project's task is to classify *kirana* shops images in 5 different business categories i.e. - 
 1. Apparels
 2. Pharmaceuticals
