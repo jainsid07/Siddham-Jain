@@ -28,7 +28,7 @@ The project's task is to classify the comments as toxic or non-toxic. For implem
 7. Transformers
 8. BERT
 
-Information about each model is in the 
+You can find the information about each model [here](https://github.com/jainsid07/Siddham-Jain/blob/master/Jigsaw--toxic-comments-classification/ReadMe)
 
 
 
