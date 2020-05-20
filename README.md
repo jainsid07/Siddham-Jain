@@ -2,6 +2,7 @@
 ## **Contents**
 - [*Kirana* shops classification](#kirana-shops-classification)
 - [Jigsaw toxic comments classification](#jigsaw-toxic-comments-classification)
+- [Seq-2-seq model for machine translation](#seq2-seq-model-for-machine-tranlation)
 
 ## [**Kirana shops classification**](https://github.com/jainsid07/Siddham-Jain/tree/master/kirana%20shops%20classification)
 The project's task is to classify *kirana* shops images in 5 different business categories i.e. - 
@@ -22,6 +23,8 @@ The project's task is to classify the comments as toxic or non-toxic. For doing 
 4. Bi-directional RNN
 
 Data Source - [here](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/data)
+
+## **Seq-2-seq model for machine translation**
 
 
 
