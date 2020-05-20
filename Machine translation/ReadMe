@@ -1,0 +1,1 @@
+The objective is to convert a German sentence to its English counterpart using a Neural Machine Translation (NMT) system. For achieving that seq-2-seq based model is implemented.
