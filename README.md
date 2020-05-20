@@ -24,7 +24,10 @@ The project's task is to classify the comments as toxic or non-toxic. For doing 
 
 Data Source - [here](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/data)
 
-## **Seq-2-seq model for machine translation**
+## [**Seq-2-seq model for machine translation**](https://github.com/jainsid07/Siddham-Jain/tree/master/Machine%20translation)
+The objective is to convert a German sentence to its English counterpart using a Neural Machine Translation (NMT) system.
+Data source - [here](http://www.manythings.org/anki/deu-eng.zip)
+
 
 
 
