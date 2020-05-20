@@ -2,7 +2,7 @@
 ## **Contents**
 - [*Kirana* shops classification](#kirana-shops-classification)
 - [Jigsaw toxic comments classification](#jigsaw-toxic-comments-classification)
-- [Seq-2-seq model for machine translation](#seq-2-seq-model-for-machine-tranlation)
+- [Seq-2-seq model for machine translation](#seq-2-seq-model-for-machine-translation)
 
 ## [**Kirana shops classification**](https://github.com/jainsid07/Siddham-Jain/tree/master/kirana%20shops%20classification)
 The project's task is to classify *kirana* shops images in 5 different business categories i.e. - 
