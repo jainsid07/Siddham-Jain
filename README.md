@@ -3,6 +3,7 @@
 - [*Kirana* shops classification](#kirana-shops-classification)
 - [Jigsaw toxic comments classification](#jigsaw-toxic-comments-classification)
 - [Seq-2-seq model for machine translation](#seq-2-seq-model-for-machine-translation)
+- [Maths game](#maths-game)
 
 ## [**Kirana shops classification**](https://github.com/jainsid07/Siddham-Jain/tree/master/kirana%20shops%20classification)
 The project's task is to classify *kirana* shops images in 5 different business categories i.e. - 
@@ -28,6 +29,9 @@ Data Source - [here](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-
 The objective is to convert a German sentence to its English counterpart using a Neural Machine Translation (NMT) system. For achieving that seq-2-seq based model is implemented. 
 
 Data source - [here](http://www.manythings.org/anki/deu-eng.zip)
+
+## [**Maths game]
+
 
 
 
