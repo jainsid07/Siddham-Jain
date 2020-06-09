@@ -30,7 +30,8 @@ The objective is to convert a German sentence to its English counterpart using a
 
 Data source - [here](http://www.manythings.org/anki/deu-eng.zip)
 
-## [**Maths game]
+## [**Maths game**](https://github.com/jainsid07/Siddham-Jain/tree/master/Maths%20game)
+I have created a simple Maths game using HTML, CSS, Java-Script
 
 
 
